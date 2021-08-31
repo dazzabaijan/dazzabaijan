@@ -17,12 +17,12 @@
 - Paul Wilmott Introduces Quantitative Finance [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
-- Deep Learning Specialisation by [DeepLearning.AI](https://www.coursera.org/specializations/deep-learning)
+- Deep Learning Specialisation by [DeepLearning.AI](https://www.coursera.org/specializations/deep-learning) on Coursera
   - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-  - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization by [DeepLearning.AI](https://www.coursera.org/learn/deep-neural-network)
-  - Structuring Machine Learning Projects by [DeepLearning.AI](https://www.coursera.org/learn/machine-learning-projects)
-  - Convolutional Neural Networks by [DeepLearning.AI](https://www.coursera.org/learn/convolutional-neural-networks)
-  - Sequence Models by [DeepLearning.AI](https://www.coursera.org/learn/nlp-sequence-models)
+  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+  - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+  - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+  - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
