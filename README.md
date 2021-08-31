@@ -48,6 +48,7 @@
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Fun fact:
 - I once took 48 people to CERN for 4 days!
 - I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Italian and Japanese.
+- My all time favourite video on the internet is [this](https://www.youtube.com/watch?v=NUYvbT6vTPs)
 
 ### Languages and Tools:
 
