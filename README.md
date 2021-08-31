@@ -14,7 +14,7 @@
 - A HPC physics n-bodies simulation project where I a spiral galaxy using the fourth order Runge Kutta method.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
-- Paul Wilmott Introduces Quantitative Finance [Book](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
+- Paul Wilmott Introduces Quantitative Finance [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
 - Neural Networks and Deep Learning by [deeplearning.ai](https://www.coursera.org/learn/neural-networks-deep-learning)
