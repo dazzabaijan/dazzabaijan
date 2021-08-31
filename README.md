@@ -26,7 +26,9 @@
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently learning/watching:
-- [MITOpenCourseWare Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+- [MITOpenCourseWare: Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
+- [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/)
+- [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)
 
 
 - 👯 I’m looking to collaborate on ...
