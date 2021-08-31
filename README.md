@@ -9,7 +9,7 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/7wFTkZYytIQLoaijCWjGzh)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dazzabaijan)
 
-- <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
   - A various number of option pricers.
   - A HPC physics n-bodies simulation project where I a spiral galaxy using the fourth order Runge Kutta method.
 - 🌱 I’m currently learning ...
