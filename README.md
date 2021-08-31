@@ -52,7 +52,8 @@
 ### Languages and Tools:
 
 <p>
-  <img width="55%" align="right" alt="Darren's github stats" src="https://github-readme-stats.vercel.app/api?username=dazzabaijan&show_icons=true&hide_border=true"/>
+  <img width="55%" align="right" alt="Darren's github stats" src="https://github-readme-stats.vercel.app/api?username=dazzabaijan&show_icons=true&hide_border=true&theme=radical
+"/>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
