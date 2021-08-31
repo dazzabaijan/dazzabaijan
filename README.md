@@ -67,6 +67,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Top languages](https://github-readme-stats.vercel.app/api?username=dazzabaijan)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
