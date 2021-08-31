@@ -44,8 +44,11 @@
 - I once took 48 people to CERN for 4 days!
 - I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Italian and Japanese.
 
-<p>
 
+### Languages and Tools:
+
+<p>
+  <img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=sachinchaturvedi93&show_icons=true&hide_border=true"/>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
