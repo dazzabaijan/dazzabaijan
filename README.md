@@ -12,6 +12,7 @@
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
 - A various number of option pricers.
 - A HPC physics n-bodies simulation project where I a spiral galaxy using the fourth order Runge Kutta method.
+- A basic Kalman filter for two correlated assets.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
 - Paul Wilmott Introduces Quantitative Finance [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
@@ -24,7 +25,10 @@
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
-- 🌱 I’m currently learning ...
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently learning/watching:
+- [MITOpenCourseWare Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
