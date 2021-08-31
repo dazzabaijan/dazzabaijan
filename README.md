@@ -64,8 +64,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazzabaijan&exclude_repo=Deep_Learning_Specialization_Coursera)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top languages](https://github-readme-stats.vercel.app/api?username=dazzabaijan)](https://github.com/anuraghazra/github-readme-stats)
-
 </p>
 
 <!--
