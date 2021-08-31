@@ -65,7 +65,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazzabaijan)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top languages](https://github-readme-stats.vercel.app/api?username=dazzabaijan)](https://github.com/anuraghazra/github-readme-stats)
 
