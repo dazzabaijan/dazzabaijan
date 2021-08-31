@@ -16,16 +16,16 @@
 - Applications of Machine Learning techniques in the financial sector.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
-- A various number of option pricers.
-- A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method.
-- A basic Kalman filter for two correlated assets.
+- A various number of option pricers. [Repo](https://github.com/dazzabaijan/quant_finance_projects)
+- A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method. [Repo](https://github.com/dazzabaijan/galaxy_simulation)
+- A basic Kalman filter for two correlated assets. [Repo](https://github.com/dazzabaijan/quant_finance_projects)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
 - Paul Wilmott Introduces Quantitative Finance [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
 - Options, Futures, and Other Derivatives by John C. Hull [[Book]](https://www.pearson.com/us/higher-education/program/Hull-Options-Futures-and-Other-Derivatives-10th-Edition/PGM333301.html)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
-- Deep Learning Specialisation by [DeepLearning.AI on Coursera](https://www.coursera.org/specializations/deep-learning) [Repo]()
+- Deep Learning Specialisation by [DeepLearning.AI on Coursera](https://www.coursera.org/specializations/deep-learning) [[Repo]](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera)
   - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
   - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
   - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
@@ -37,13 +37,17 @@
 - [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/)
 - [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)
 
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Some of my past university projects:
+- [My Master's Thesis](https://github.com/dazzabaijan/randomised_benchmarking/blob/master/RB_Final_Year_Project.pdf)
+- [Python projects](https://github.com/dazzabaijan/py_comp_model
+- [A group review article in quantum physics](https://github.com/dazzabaijan/group_work/blob/master/Ahanorov_Bohm_Effect_Review_Article.pdf)
+
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> How to reach me:
 - [dn16018@alumni.bristol.ac.uk](mailto:dn16018@alumni.bristol.ac.uk)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Fun fact:
 - I once took 48 people to CERN for 4 days!
 - I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Italian and Japanese.
-
 
 ### Languages and Tools:
 
