@@ -39,7 +39,7 @@
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Some of my past university projects:
 - [My Master's Thesis](https://github.com/dazzabaijan/randomised_benchmarking/blob/master/RB_Final_Year_Project.pdf)
-- [Python projects](https://github.com/dazzabaijan/py_comp_model
+- [Python projects](https://github.com/dazzabaijan/py_comp_model)
 - [A group review article in quantum physics](https://github.com/dazzabaijan/group_work/blob/master/Ahanorov_Bohm_Effect_Review_Article.pdf)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> How to reach me:
@@ -69,18 +69,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazzabaijan&exclude_repo=Deep_Learning_Specialization_Coursera)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
-
-<!--
-**dazzabaijan/dazzabaijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
