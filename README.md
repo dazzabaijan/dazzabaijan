@@ -16,6 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
 - Paul Wilmott Introduces Quantitative Finance [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
+- Options, Futures, and Other Derivatives by John C. Hull [[Book]](https://www.pearson.com/us/higher-education/program/Hull-Options-Futures-and-Other-Derivatives-10th-Edition/PGM333301.html)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
 - Deep Learning Specialisation by [DeepLearning.AI on Coursera](https://www.coursera.org/specializations/deep-learning) 
