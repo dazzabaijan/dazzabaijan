@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m:
 - An MSci Theoretical Physics graduate.
 - Interested in quantum computation.
-- Interested in mathematical modelling and quantitative finance.
+- Interested in mathematical modelling, quantitative finance and stochastic calculus.
 - Applications of Machine Learning techniques in the financial sector.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
