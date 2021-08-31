@@ -30,12 +30,11 @@
 - [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/)
 - [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)
 
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> How to reach me:
+- [dn16018@alumni.bristol.ac.uk](mailto:dn16018@alumni.bristol.ac.uk)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Fun fact:
+- I once took 48 people to CERN for 4 days!
 
 <!--
 **dazzabaijan/dazzabaijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
