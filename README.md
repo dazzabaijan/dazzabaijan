@@ -1,6 +1,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/dazzabaijan/dazzabaijan.svg?cache=remove)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px">
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji2.gif" width="30px">
 
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="30px"> Hi there, I'm Darren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
