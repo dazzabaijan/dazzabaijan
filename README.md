@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
 - A various number of option pricers.
-- A HPC physics n-bodies simulation project where I a spiral galaxy using the fourth order Runge Kutta method.
+- A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method.
 - A basic Kalman filter for two correlated assets.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
