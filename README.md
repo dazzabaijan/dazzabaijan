@@ -25,7 +25,7 @@
 - Options, Futures, and Other Derivatives by John C. Hull [[Book]](https://www.pearson.com/us/higher-education/program/Hull-Options-Futures-and-Other-Derivatives-10th-Edition/PGM333301.html)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
-- Deep Learning Specialisation by [DeepLearning.AI on Coursera](https://www.coursera.org/specializations/deep-learning) 
+- Deep Learning Specialisation by [DeepLearning.AI on Coursera](https://www.coursera.org/specializations/deep-learning) [Repo]()
   - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
   - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
   - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
