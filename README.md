@@ -9,6 +9,11 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/7wFTkZYytIQLoaijCWjGzh)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dazzabaijan)
 
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m:
+- an MSci Theoretical Physics graduate.
+- interested in mathematical modelling and quantitative finance.
+- applications of Machine Learning techniques in the financial sector.
+
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
 - A various number of option pricers.
 - A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method.
@@ -26,7 +31,7 @@
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
-<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently learning/watching:
+<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently watching and learning from:
 - [MITOpenCourseWare: Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 - [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/)
 - [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)
