@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
 - Deep Learning Specialisation by [DeepLearning.AI](https://www.coursera.org/specializations/deep-learning)
-  - Neural Networks and Deep Learning by [DeepLearning.AI](https://www.coursera.org/learn/neural-networks-deep-learning)
+  - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
   - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization by [DeepLearning.AI](https://www.coursera.org/learn/deep-neural-network)
   - Structuring Machine Learning Projects by [DeepLearning.AI](https://www.coursera.org/learn/machine-learning-projects)
   - Convolutional Neural Networks by [DeepLearning.AI](https://www.coursera.org/learn/convolutional-neural-networks)
