@@ -10,9 +10,10 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dazzabaijan)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m:
-- an MSci Theoretical Physics graduate.
-- interested in mathematical modelling and quantitative finance.
-- applications of Machine Learning techniques in the financial sector.
+- An MSci Theoretical Physics graduate.
+- Interested in quantum computation.
+- Interested in mathematical modelling and quantitative finance.
+- Applications of Machine Learning techniques in the financial sector.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
 - A various number of option pricers.
