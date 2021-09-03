@@ -42,6 +42,7 @@
 - [My Master's Thesis](https://github.com/dazzabaijan/randomised_benchmarking/blob/master/RB_Final_Year_Project.pdf)
 - [Python projects](https://github.com/dazzabaijan/py_comp_model)
 - [A group review article in quantum physics](https://github.com/dazzabaijan/group_work/blob/master/Ahanorov_Bohm_Effect_Review_Article.pdf)
+- [A matlab simulation of wetting a surface using statistical mechanics](https://github.com/dazzabaijan/theory_lab/blob/master/theory_lab_report.pdf)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> How to reach me:
 - [dn16018@alumni.bristol.ac.uk](mailto:dn16018@alumni.bristol.ac.uk)
