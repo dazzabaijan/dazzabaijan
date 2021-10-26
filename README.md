@@ -19,7 +19,7 @@
 - A various number of option pricers. [[Repo]](https://github.com/dazzabaijan/quant_finance_projects)
 - A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method. [[Repo]](https://github.com/dazzabaijan/galaxy_simulation)
 
-[comment]: <> (- A Kalman filter for performing dynamic linear regressions on two correlated assets. [[Repo]](https://github.com/dazzabaijan/quant_finance_projects))
+[comment]: # (- A Kalman filter for performing dynamic linear regressions on two correlated assets. [[Repo]](https://github.com/dazzabaijan/quant_finance_projects))
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
 - Paul Wilmott Introduces Quantitative Finance by Paul Wilmott [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
