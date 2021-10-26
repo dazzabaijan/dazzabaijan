@@ -19,12 +19,9 @@
 - A various number of option pricers. [[Repo]](https://github.com/dazzabaijan/quant_finance_projects)
 - A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method. [[Repo]](https://github.com/dazzabaijan/galaxy_simulation)
 
-[comment]: # (- A Kalman filter for performing dynamic linear regressions on two correlated assets. [[Repo]](https://github.com/dazzabaijan/quant_finance_projects)
-
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
 - Paul Wilmott Introduces Quantitative Finance by Paul Wilmott [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
 - Options, Futures, and Other Derivatives by John C. Hull [[Book]](https://www.pearson.com/us/higher-education/program/Hull-Options-Futures-and-Other-Derivatives-10th-Edition/PGM333301.html)
-- Algorithmic Trading: Winning Strategies and Their Rationale by Ernie Chan [[Book]](https://www.wiley.com/en-gb/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118460146)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
 - Deep Learning Specialisation by [DeepLearning.AI on Coursera](https://www.coursera.org/specializations/deep-learning) [[Repo]](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera)
