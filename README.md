@@ -33,8 +33,8 @@
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently watching and learning from:
-[comment]: <> (- [MITOpenCourseWare: Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
-[comment]: <> (- [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/)
+[comment]: <> (- [MITOpenCourseWare: Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/))
+[comment]: <> (- [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/))
 - [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Some of my past university projects:
