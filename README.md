@@ -16,12 +16,13 @@
 - Applications of Machine Learning techniques in the financial sector.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
+- Learning C++ on LinkedIn Learning! [[Link]](https://www.linkedin.com/learning/paths/become-a-c-plus-plus-developer)
 - A various number of option pricers. [[Repo]](https://github.com/dazzabaijan/quant_finance_projects)
 - A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method. [[Repo]](https://github.com/dazzabaijan/galaxy_simulation)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
 - Paul Wilmott Introduces Quantitative Finance by Paul Wilmott [[Book]](https://www.wiley.com/en-gb/Paul+Wilmott+Introduces+Quantitative+Finance%2C+2nd+Edition-p-9781118836798)
-[comment]: <> (- Options, Futures, and Other Derivatives by John C. Hull [[Book]](https://www.pearson.com/us/higher-education/program/Hull-Options-Futures-and-Other-Derivatives-10th-Edition/PGM333301.html))
+[comment]: <> (- Options, Futures, and Other Derivatives by John C. Hull [[Book]](https://www.pearson.com/us/higher-education/program/Hull-Options-Futures-and-Other-Derivatives-10th-Edition/PGM333301.html)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I have finished the following courses/certficates:
 - Deep Learning Specialisation by [DeepLearning.AI on Coursera](https://www.coursera.org/specializations/deep-learning) [[Repo]](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera)
@@ -32,13 +33,13 @@
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently watching and learning from:
-- [MITOpenCourseWare: Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
-- [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/)
+[comment]: <> (- [MITOpenCourseWare: Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
+[comment]: <> (- [Udemy: Financial Derivatives: A Quantitative Finance View](https://www.udemy.com/course/financial-derivatives/)
 - [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Some of my past university projects:
 - [My Master's Thesis](https://github.com/dazzabaijan/randomised_benchmarking/blob/master/RB_Final_Year_Project.pdf)
-- [Python projects](https://github.com/dazzabaijan/py_comp_model)
+- [Undergraduate Python projects](https://github.com/dazzabaijan/py_comp_model)
 - [A group review article in quantum physics](https://github.com/dazzabaijan/group_work/blob/master/Ahanorov_Bohm_Effect_Review_Article.pdf)
 - [A matlab simulation of wetting a surface using statistical mechanics](https://github.com/dazzabaijan/theory_lab/blob/master/theory_lab_report.pdf)
 
@@ -47,7 +48,7 @@
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Fun fact:
 - I once took 48 people to CERN for 4 days!
-- I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Italian and Japanese.
+- I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Italian, Japanese and Russian.
 - My all time favourite video on the internet is [this](https://www.youtube.com/watch?v=NUYvbT6vTPs)
 
 ### Languages and Tools:
