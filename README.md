@@ -31,8 +31,8 @@
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
-<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently watching and learning from:
-- [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)
+[//]: <> (<img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently watching and learning from:)
+[//]: <> (- [Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/))_
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Some of my past university projects:
 - [My Master's Thesis](https://github.com/dazzabaijan/randomised_benchmarking/blob/master/RB_Final_Year_Project.pdf)
