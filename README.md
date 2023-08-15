@@ -16,8 +16,7 @@
 - Applications of Machine Learning techniques in the financial sector.
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
-- Learning C++ on LinkedIn Learning! [[Link]](https://www.linkedin.com/learning/paths/become-a-c-plus-plus-developer)
-- A various number of option pricers. [[Repo]](https://github.com/dazzabaijan/quant_finance_projects)
+- A C++ quant finance library. [[Repo]](https://github.com/dazzabaijan/QuantFinanceCpp)
 - A HPC n-bodies physics project where I simulate a spiral galaxy using the fourth order Runge Kutta method. [[Repo]](https://github.com/dazzabaijan/galaxy_simulation)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I'm currently reading:
@@ -32,7 +31,7 @@
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 [//]: <> ( img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px" I’m currently watching and learning from: )
-[//]: <> ( Udemy: Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/)  )
+[//]: <> ( Udemy: Quantitative Finance & Algorithmic Trading in Python https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/  )
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Some of my past university projects:
 - [My Master's Thesis](https://github.com/dazzabaijan/randomised_benchmarking/blob/master/RB_Final_Year_Project.pdf)
@@ -41,7 +40,7 @@
 - [A matlab simulation of wetting a surface using statistical mechanics](https://github.com/dazzabaijan/theory_lab/blob/master/theory_lab_report.pdf)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> How to reach me:
-- [dn16018@alumni.bristol.ac.uk](mailto:dn16018@alumni.bristol.ac.uk)
+- [darren_ng97@hotmail.com](mailto:darren_ng97@hotmail.com)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Fun fact:
 - I once took 48 people to CERN for 4 days!
