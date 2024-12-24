@@ -14,8 +14,8 @@
 - Interested in quantum computation.
 - Interested in mathematical modelling, quantitative finance and stochastic calculus.
 - Applications of Machine Learning techniques in the financial sector.
-- A published author in Theoretical Quantum Physics and Quantum Computation.
-[[Noise-Aware Quantum Amplitude Estimation]](https://ieeexplore.ieee.org/document/10711252)
+- A published author in Theoretical Quantum Physics and Quantum Computation:<br />
+  [S. Herbert, Ifan Williams, R. Guichard and **D. Ng**, "Noise-Aware Quantum Amplitude Estimation", *IEEE Transactions on Quantum Engineering, vol. 5, 2024.*](https://ieeexplore.ieee.org/document/10711252)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
 - A C++ quant finance library. [[Repo]](https://github.com/dazzabaijan/QuantFinanceCpp)
@@ -45,7 +45,8 @@
 - [darren_ng97@hotmail.com](mailto:darren_ng97@hotmail.com)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Fun fact:
-- I once took 48 people to CERN for 4 days!
+- I once took 48 people to CERN for 4 days!<br />
+  <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/CERN.jpeg" width="3000px">
 - I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Japanese and Russian.
 - My all time favourite video on the internet is [this](https://www.youtube.com/watch?v=NUYvbT6vTPs)
 
