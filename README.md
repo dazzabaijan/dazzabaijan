@@ -14,6 +14,8 @@
 - Interested in quantum computation.
 - Interested in mathematical modelling, quantitative finance and stochastic calculus.
 - Applications of Machine Learning techniques in the financial sector.
+- A published author in Theoretical Quantum Physics and Quantum Computation.
+[[Noise-Aware Quantum Amplitude Estimation]](https://ieeexplore.ieee.org/document/10711252)
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> I’m currently working on:
 - A C++ quant finance library. [[Repo]](https://github.com/dazzabaijan/QuantFinanceCpp)
@@ -44,7 +46,7 @@
 
 <img src="https://raw.githubusercontent.com/dazzabaijan/dazzabaijan/main/thinking-emoji.gif" width="30px"> Fun fact:
 - I once took 48 people to CERN for 4 days!
-- I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Italian, Japanese and Russian.
+- I can speak English, Mandarin, Cantonese, Teochew Dialect, French and Malay. Currently learning very basic Japanese and Russian.
 - My all time favourite video on the internet is [this](https://www.youtube.com/watch?v=NUYvbT6vTPs)
 
 ### Languages and Tools:
